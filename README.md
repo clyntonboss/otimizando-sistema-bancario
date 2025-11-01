@@ -1,6 +1,6 @@
 # 💳 Sistema Bancário em Python
 
-![Python™](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![DIO](https://img.shields.io/badge/DIO-Digital%20Innovation%20One-orange)
 ![Curso](https://img.shields.io/badge/Curso-Back-End%20com%20Python-green)
 
