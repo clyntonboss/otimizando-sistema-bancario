@@ -127,6 +127,6 @@ python nome_do_arquivo.py
 
     Digital Innovation One – Back-End com Python™
 
-Curso: Luizalabs – Dominando Funções e Boas Práticas em Python™
+Certificação: Luizalabs – Dominando Funções e Boas Práticas em Python™
 
-Subcurso: Otimizando o Sistema Bancário com Funções Python™
+Curso: Otimizando o Sistema Bancário com Funções Python™
